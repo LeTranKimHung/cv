@@ -50,7 +50,6 @@ English: Basic communication
 
 During 4 years of studying at university, I gained practical experience through academic projects, improved teamwork, problem-solving skills, and built a strong foundation in software development.
 
-🧪 PROJECTS
 🔹 PROJECT 1: Four Rock – Booking Care System (Team size: 3)
 
 A medical booking system with features such as appointment scheduling, doctor information display, health article viewing, real-time support chat, AI chatbot, and voice-based search.
