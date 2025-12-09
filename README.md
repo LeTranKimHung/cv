@@ -1,19 +1,5 @@
-Đây là dự án CV Online cá nhân được xây dựng bằng HTML, CSS và JavaScript, thiết kế tối giản – chuyên nghiệp – dễ đọc.
+Đây là CV Online cá nhân được xây dựng bằng HTML, CSS và JavaScript, thiết kế tối giản – chuyên nghiệp – dễ đọc.
 Hỗ trợ Download PDF, chèn ảnh đại diện, và hiển thị đầy đủ các thông tin cá nhân, học vấn, kinh nghiệm và dự án.
-
-🚀 Công nghệ sử dụng
-
-HTML5
-
-CSS3
-
-JavaScript
-
-Web Speech API (tìm kiếm bằng giọng nói – trong Project 1)
-
-Laravel + MySQL (dùng cho Project 2)
-
-SQL Server + Entity Framework (Project 1 backend)
 
 👤 Thông tin cá nhân
 
