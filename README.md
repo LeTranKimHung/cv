@@ -1,1 +1,200 @@
-# cv
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Le Tran Kim Hung</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f4;
+        }
+
+        .container {
+            width: 900px;
+            background: white;
+            margin: 30px auto;
+            padding: 40px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 28px;
+            text-transform: uppercase;
+        }
+
+        h2 {
+            margin-top: 5px;
+            color: #333;
+            font-size: 20px;
+            font-weight: normal;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .photo {
+            width: 140px;
+            height: 160px;
+            background: #87b3ff;
+        }
+
+        .section-title {
+            font-size: 20px;
+            margin-top: 25px;
+            margin-bottom: 10px;
+            font-weight: bold;
+            border-bottom: 2px solid #aaa;
+            display: inline-block;
+            padding-bottom: 5px;
+        }
+
+        p,
+        li {
+            font-size: 15px;
+            line-height: 1.5;
+        }
+
+        ul {
+            margin-top: 5px;
+        }
+
+        @media print {
+            button {
+                display: none;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+
+        <!-- HEADER -->
+        <div class="header">
+            <div>
+                <h1>LÊ TRẦN KIM HƯNG</h1>
+                <h2>Software Engineer</h2>
+
+                <p><strong>DOB:</strong> 11/01/2004</p>
+                <p><strong>Address:</strong> Ho Chi Minh City</p>
+                <p><strong>Phone:</strong> 0969064902</p>
+                <p><strong>Email:</strong>
+                    <a href="mailto:hungltk2004@gmail.com" style="color:#2b6cb0;">
+                        hungltk2004@gmail.com
+                    </a>
+                </p>
+
+                <p><strong>GitHub:</strong>
+                    <a href="https://github.com/LeTranKimHung" target="_blank" style="color:#2b6cb0;">
+                        github.com/LeTranKimHung
+                    </a>
+                </p>
+            </div>
+
+            <img src="avatar.png" alt="Profile Photo"
+                style="width:300px; height:300px; object-fit:cover; border-radius:10px;padding-right:80px">
+        </div>
+
+        <!-- OBJECTIVE -->
+        <div class="section-title">OBJECTIVE</div>
+        <p>
+            As a university student currently undergoing academic and practical training,
+            I am seeking opportunities to learn and develop my skills in a real-world working environment
+            through hands-on experience. Over the next two years, my objective is to become proficient in
+            full-stack development and actively contribute to real-world projects.
+        </p>
+
+        <!-- EDUCATION -->
+        <div class="section-title">EDUCATION</div>
+        <p><strong>Bachelor of Information Technology</strong><br>
+            Ho Chi Minh City University of Technology (HUTECH) <br>
+            GPA: 3.0 / 4.0</p>
+
+        <p><strong>Languages:</strong><br>
+            • English: Basic communication</p>
+
+        <p><strong>Experience</strong><br>
+            During my 4 years of studying at university, I gained hands-on experience through academic
+            projects, strengthened my technical skills, improved my teamwork and problem-solving abilities,
+            and built a solid foundation in software development.
+        </p>
+
+        <div class="section-title">PROJECT 1: Four Rock - Booking Care System (Team size: 3)</div>
+        <p>
+            Built a medical booking system with features such as appointment scheduling, doctor information display,
+            health article viewing, customer support chat, an AI-powered Q&A chatbot, and a voice-based search function
+            that allows users to search doctors or medical services using spoken commands.
+        </p>
+
+        <p><strong>Tech stack:</strong> ASP.NET Core, SQL Server, Entity Framework, HTML, CSS, JavaScript</p>
+        <p><strong>Role:</strong> Full-stack Developer</p>
+
+        <p><strong>Responsibilities:</strong></p>
+        <ul>
+            <li>Designed the normalized database schema using SQL Server and optimized queries to improve performance.
+            </li>
+            <li>Developed UI/UX for appointment booking, doctor details, and article viewing using HTML, CSS, and
+                JavaScript.</li>
+            <li>Implemented real-time customer support chat for user–staff communication.</li>
+            <li>Integrated an AI chatbot to assist users with medical lookup, booking questions, and automated Q&A
+                responses.</li>
+            <li>Built a <strong>voice search feature</strong> using the Web Speech API to allow users to search doctors,
+                specialties, or articles by speaking natural language commands.</li>
+            <li>Applied Entity Framework Core for all data operations, ensuring smooth interaction between backend and
+                frontend.</li>
+            <li>Conducted system testing, fixed bugs, and improved UI responsiveness across devices.</li>
+            <li>Using the Web Speech API to allow users to search doctors, specialties, or articles by speaking natural
+                language commands</li>
+        </ul>
+
+        <!-- PROJECT 2 (NEW) -->
+        <div class="section-title">PROJECT 2: Travel Website (Team size: 1)</div>
+        <p>
+            Built a full-featured travel management website using PHP Laravel, allowing users to explore destinations,
+            read travel guides, view detailed location pages, and manage bookings.
+            The system includes an admin dashboard for managing destinations, blogs, and user accounts.
+        </p>
+
+        <p><strong>Tech stack:</strong> PHP Laravel, MySQL, Blade Template, HTML, CSS, JavaScript</p>
+        <p><strong>Role:</strong> Full-stack Developer</p>
+
+        <p><strong>Responsibilities:</strong></p>
+        <ul>
+            <li>Designed and implemented the database using MySQL, including tables for destinations, users, bookings,
+                and blogs.</li>
+            <li>Developed RESTful routes and controllers to manage CRUD operations for destinations and travel posts.
+            </li>
+            <li>Built dynamic travel pages using Laravel Blade templates with reusable components.</li>
+            <li>Implemented authentication & authorization using Laravel Breeze (login, register, password reset).</li>
+            <li>Created an admin dashboard for managing destinations, posts, and user booking data.</li>
+            <li>Integrated search and filter features to help users easily find destinations by category, price, or
+                keyword.</li>
+        </ul>
+
+    </div>
+    <button onclick="printCV()" style="padding: 10px 18px; 
+               background:#2b6cb0; 
+               color:white; 
+               border:none; 
+               border-radius:5px; 
+               font-size:16px; 
+               cursor:pointer;
+               margin-bottom:20px;">
+        Download PDF
+    </button>
+
+    <script>
+        function printCV() {
+            window.print();
+        }
+    </script>
+</body>
+
+</html>
