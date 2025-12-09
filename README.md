@@ -54,61 +54,43 @@ During 4 years of studying at university, I gained practical experience through 
 
 A medical booking system with features such as appointment scheduling, doctor information display, health article viewing, real-time support chat, AI chatbot, and voice-based search.
 
-Tech Stack
+Tech Stack: ASP.NET Core, SQL Server, Entity Framework, HTML, CSS, JavaScript
 
-ASP.NET Core
-
-SQL Server
-
-Entity Framework
-
-HTML, CSS, JavaScript
-
-Role
-
-Full-stack Developer
+Role: Full-stack Developer
 
 Responsibilities
 
-Designed normalized SQL Server database schema and optimized queries.
+-Designed normalized SQL Server database schema and optimized queries.
 
-Developed UI/UX for booking, doctor details, and article pages.
+-Developed UI/UX for booking, doctor details, and article pages.
 
-Implemented real-time customer support chat.
+-Implemented real-time customer support chat.
 
-Integrated an AI chatbot for medical lookup and auto Q&A.
+-Integrated an AI chatbot for medical lookup and auto Q&A.
 
-Added voice search using Web Speech API to search doctors, specialties, and articles.
+-Added voice search using Web Speech API to search doctors, specialties, and articles.
 
-Implemented backend logic using Entity Framework Core.
+-Implemented backend logic using Entity Framework Core.
 
-Performed testing, debugging and improved responsiveness across devices.
+-Performed testing, debugging and improved responsiveness across devices.
 
 🔹 PROJECT 2: Travel Website (Team size: 1 – PHP Laravel)
 
 A personal travel website allowing users to explore destinations, read blogs, view details, and manage bookings.
 Includes an admin dashboard for CRUD operations.
 
-Tech Stack
-
-PHP Laravel
-
-MySQL
-
-Blade Template
-
-HTML, CSS, JavaScript
+Tech Stack: PHP Laravel, MySQL, Blade Template, HTML, CSS, JavaScript
 
 Responsibilities
 
-Built database with tables for destinations, users, bookings, and blogs.
+-Built database with tables for destinations, users, bookings, and blogs.
 
-Developed RESTful controllers for CRUD operations.
+-Developed RESTful controllers for CRUD operations.
 
-Designed reusable Blade components and dynamic UI.
+-Designed reusable Blade components and dynamic UI.
 
-Implemented authentication & authorization with Laravel Breeze.
+-Implemented authentication & authorization with Laravel Breeze.
 
-Developed admin dashboard for managing posts, destinations, and user data.
+-Developed admin dashboard for managing posts, destinations, and user data.
 
-Added search & filter by category, price, or keyword.
+-Added search & filter by category, price, or keyword.
