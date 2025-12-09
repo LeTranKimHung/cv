@@ -1,6 +1,8 @@
 Đây là CV Online cá nhân được xây dựng bằng HTML, CSS và JavaScript, thiết kế tối giản – chuyên nghiệp – dễ đọc.
 Hỗ trợ Download PDF, chèn ảnh đại diện, và hiển thị đầy đủ các thông tin cá nhân, học vấn, kinh nghiệm và dự án.
+
 👤 Thông tin cá nhân
+
 Name: Lê Trần Kim Hưng
 
 Position: Software Engineer
